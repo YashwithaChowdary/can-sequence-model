@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+results.json
+results_sequence.json
+.venv/
